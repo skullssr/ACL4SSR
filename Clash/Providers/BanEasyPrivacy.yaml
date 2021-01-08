@@ -2,8 +2,8 @@ payload:
   # 广告列表 adblock rules
   # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
   # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-  # 更新：2021-01-03 18:06:38
-  # 数量：2791条
+  # 更新：2021-01-05 21:19:11
+  # 数量：2798条
 
   - DOMAIN-SUFFIX,0sbm.consobaby.co.uk
   - DOMAIN-SUFFIX,0x1f4b0.com
@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,6pal.consobaby.com
   - DOMAIN-SUFFIX,7lbd4.armandthiery.fr
   - DOMAIN-SUFFIX,7mx.eider.com
+  - DOMAIN-SUFFIX,7q1z79gxsi.global.ssl.fastly.net
   - DOMAIN-SUFFIX,913nd.dieti-natura.es
   - DOMAIN-SUFFIX,a.20minutes.fr
   - DOMAIN-SUFFIX,a.mobify.com
@@ -716,6 +717,7 @@ payload:
   - DOMAIN-SUFFIX,dc.banggood.com
   - DOMAIN-SUFFIX,dc.letv.com
   - DOMAIN-SUFFIX,dccss.banggood.com
+  - DOMAIN-SUFFIX,dcf.espn.com
   - DOMAIN-SUFFIX,dd.nytimes.com
   - DOMAIN-SUFFIX,de-mi-nis-ner.info
   - DOMAIN-SUFFIX,de-mi-nis-ner2.info
@@ -891,6 +893,7 @@ payload:
   - DOMAIN-SUFFIX,event.dkb.de
   - DOMAIN-SUFFIX,event.getblue.io
   - DOMAIN-SUFFIX,event.syndigo.cloud
+  - DOMAIN-SUFFIX,event.webcollage.net
   - DOMAIN-SUFFIX,eventapi.libring.com
   - DOMAIN-SUFFIX,eventgateway.soundcloud.com
   - DOMAIN-SUFFIX,eventlog.inspsearchapi.com
@@ -1148,6 +1151,7 @@ payload:
   - DOMAIN-SUFFIX,ingest.sentry.io
   - DOMAIN-SUFFIX,inquiries.redhat.com
   - DOMAIN-SUFFIX,insight.fonecta.fi
+  - DOMAIN-SUFFIX,insights.algolia.io
   - DOMAIN-SUFFIX,insights.cdt.ch
   - DOMAIN-SUFFIX,insights.sitesearch360.com
   - DOMAIN-SUFFIX,insitez.blob.core.windows.net
@@ -1166,6 +1170,7 @@ payload:
   - DOMAIN-SUFFIX,irqs.ioam.de
   - DOMAIN-SUFFIX,is.base.de
   - DOMAIN-SUFFIX,itracking.fccinteractive.com
+  - DOMAIN-SUFFIX,jac.yahoosandbox.com
   - DOMAIN-SUFFIX,javascriptcounter.appspot.com
   - DOMAIN-SUFFIX,jelly.mdhv.io
   - DOMAIN-SUFFIX,jppolid-track.trackprod.integration.jppol.dk
@@ -2268,6 +2273,7 @@ payload:
   - DOMAIN-SUFFIX,te.mytoys.de
   - DOMAIN-SUFFIX,te.supportfreecontent.com
   - DOMAIN-SUFFIX,ted.metro.co.uk
+  - DOMAIN-SUFFIX,telemetrics.klaviyo.com
   - DOMAIN-SUFFIX,telemetry.api.wmcdp.io
   - DOMAIN-SUFFIX,telemetry.art19.com
   - DOMAIN-SUFFIX,telemetry.jivosite.com
@@ -2707,6 +2713,7 @@ payload:
   - DOMAIN-SUFFIX,vtf2f.banque-casino.fr
   - DOMAIN-SUFFIX,vtrtl.de
   - DOMAIN-SUFFIX,vv.ricardo.ch
+  - DOMAIN-SUFFIX,w88.espn.com
   - DOMAIN-SUFFIX,wa.gmx.fr
   - DOMAIN-SUFFIX,wa.metro.co.uk
   - DOMAIN-SUFFIX,wa.ui-portal.de
